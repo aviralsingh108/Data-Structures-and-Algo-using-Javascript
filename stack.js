@@ -44,19 +44,7 @@ console.log(myStack.peek());
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-// Palindrome
+// Palindrome using stack
 
 const letters = [];
 const word = 'aviral';
