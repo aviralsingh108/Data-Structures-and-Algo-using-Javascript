@@ -1,3 +1,5 @@
+// Queue
+
 function Queue(){
     collection = [];
     this.print = function(){
